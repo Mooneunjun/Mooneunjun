@@ -8,7 +8,8 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=moon_dev)](https://velog.io/@moon_dev/series)
   
-[![Moon's github stats](https://github-readme-stats.vercel.app/api?username=Mooneunjun)](https://github.com/Mooneunjun)
+![Moon's github stats](https://github-readme-stats.vercel.app/api?username=Mooneunjun&show_icons=true&theme=default&count_private=true&include_all_commits=true)
+
 
 </div>
 
