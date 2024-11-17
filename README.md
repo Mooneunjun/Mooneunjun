@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 # Hi, I'm Moon! 👋
 Welcome to my GitHub profile!  
-![Profile views](https://hits.sh/github.com/Mooneunjun.svg "Profile views
+![Profile views](https://hits.sh/github.com/Mooneunjun.svg "Profile views")
