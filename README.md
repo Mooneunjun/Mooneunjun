@@ -2,13 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6BAFFD,100:9ADCFB&height=200&text=Hello%20I'm%20Moon!&desc=The%20Only%20Limit%20Is%20Your%20Mind&descAlignY=70&descAlign=50&fontSize=70&fontAlign=50&fontColor=FFFFFF&animation=twinkling&stroke=FFFFFF&strokeWidth=1" alt="Moon Capsule">
 
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMooneunjun%2Fhit-counter&count_bg=%23F12121&title_bg=%23555555&icon=lastpass.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+  
   ---
 
 <div align="left" style="text-align:center">
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=moon_dev)](https://velog.io/@moon_dev/series)
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Mooneunjun&show_icons=true&theme=default&count_private=true&include_all_commits=true" width="450">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mooneunjun&show_icons=true&theme=dark&count_private=true&include_all_commits=true" width="450">
+
+
+
 
 </div>
 
