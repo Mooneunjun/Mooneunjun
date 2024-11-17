@@ -7,8 +7,6 @@
 
 <div align="left" style="text-align:center">
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=moon_dev)](https://velog.io/@moon_dev/series)
-
 <img src="https://github-readme-stats.vercel.app/api?username=Mooneunjun&show_icons=true&theme=dark&count_private=true&include_all_commits=true" width="450">
 
 
