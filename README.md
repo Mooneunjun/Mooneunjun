@@ -14,16 +14,10 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Moon! 👋
-
-  __  __             _          
- |  \/  |           (_)         
- | \  / | __ _ _ __  _ _ __ ___ 
- | |\/| |/ _` | '_ \| | '__/ _ \
- | |  | | (_| | | | | | | |  __/
- |_|  |_|\__,_|_| |_|_|_|  \___|
-
-  
 Welcome to my GitHub profile!  
+
+## 🔥 Weekly Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mooneunjun&theme=github-compact" alt="GitHub Activity Graph" height="200" />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMooneunjun%2Fhit-counter&count_bg=%233ECF8E&title_bg=%23555555&icon=lastpass.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://velog.io/@moon_dev/posts)
 
