@@ -4,15 +4,19 @@
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMooneunjun%2Fhit-counter&count_bg=%23F12121&title_bg=%23555555&icon=lastpass.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
   ---
 
+<div align="left" style="text-align:center">
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=moon_dev)](https://velog.io/@moon_dev/series)
+  
+[![Moon's github stats](https://github-readme-stats.vercel.app/api?username=Mooneunjun)](https://github.com/Mooneunjun/github-readme-stats)
+
 <div>
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Mooneunjun&theme=github-compact"
   alt="GitHub Activity Graph"
-  height="130"
-/> <a href="https://velog.io/@moon_dev/series"><img
-  src="https://velog-readme-stats.vercel.app/api?name=moon_dev"
-  alt="Velog's GitHub stats"
-/></a>
+  width="450"
+/>
+  </div>
 </div>
 
 ---
