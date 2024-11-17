@@ -7,9 +7,7 @@
 
 <div align="center">
 
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMooneunjun%2Fhit-counter&count_bg=%23F12121&title_bg=%23555555&icon=lastpass.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false) <img
-      src="https://img.shields.io/badge/MoonDevlog-3DDC84?style=badge&logo=Velog&logoColor=white"
-  />
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMooneunjun%2Fhit-counter&count_bg=%23F12121&title_bg=%23555555&icon=lastpass.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
   ---
 </div>
 
@@ -17,11 +15,11 @@
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Mooneunjun&theme=github-compact"
   alt="GitHub Activity Graph"
-  height="120"
+  height="130"
 /> <img
   src="https://velog-readme-stats.vercel.app/api?name=moon_dev"
   alt="Velog's GitHub stats"
-  height="120"
+  height="130"
 />
 </div>
 
