@@ -1,9 +1,9 @@
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=soft&color=0:333333,100:555555&height=180&text=Moon&fontSize=80&fontAlign=50&fontColor=FFFFFF&animation=fadeIn&stroke=FFFFFF&strokeWidth=1"
-    alt="Moon Capsule"
-  />
+
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4A90E2,100:8A2BE2&height=180&text=Moon&fontSize=80&fontAlign=50&fontColor=FFFFFF&animation=fadeIn&stroke=FFFFFF&strokeWidth=1" alt="Moon Capsule">
+
 </div>
+
 
 <div align="center">
 
@@ -18,12 +18,12 @@
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Mooneunjun&theme=github-compact"
   alt="GitHub Activity Graph"
-  height="156"
+  height="150"
 /> <img
   align="right"
   src="https://velog-readme-stats.vercel.app/api?name=moon_dev"
   alt="Velog's GitHub stats"
-  height="156"
+  height="150"
 />
 
 ---
