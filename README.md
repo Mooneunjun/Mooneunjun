@@ -21,7 +21,6 @@
   alt="GitHub Activity Graph"
   height="120"
 /> <img
-  align="right"
   src="https://velog-readme-stats.vercel.app/api?name=moon_dev"
   alt="Velog's GitHub stats"
   height="120"
