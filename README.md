@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Mooneunjun/Mooneunjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Moon! 👋
+Welcome to my GitHub profile!  
+![Profile views](https://hits.sh/github.com/Mooneunjun.svg "Profile views
