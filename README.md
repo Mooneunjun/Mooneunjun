@@ -1,8 +1,10 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4A90E2,100:8A2BE2&height=180&text=Hi,%20I'm%20Moon!%20&fontSize=80&fontAlign=50&fontColor=FFFFFF&animation=fadeIn&stroke=FFFFFF&strokeWidth=1" alt="Moon Capsule">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4A90E2,100:8A2BE2&height=200&text=Hello%20I'm%20Moon!&desc=Shoot%20for%20the%20Moon.%20Even%20if%20you%20miss,%20you'll%20land%20among%20the%20stars.&descAlignY=70&descAlign=50&fontSize=70&fontAlign=50&fontColor=FFFFFF&animation=fadeIn&stroke=FFFFFF&strokeWidth=1" alt="Moon Capsule">
 
 </div>
+
+
 
 
 <div align="center">
