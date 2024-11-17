@@ -15,11 +15,11 @@
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Mooneunjun&theme=github-compact"
   alt="GitHub Activity Graph"
-  height="136"
+  height="134"
 /> <img
   src="https://velog-readme-stats.vercel.app/api?name=moon_dev"
   alt="Velog's GitHub stats"
-  height="136"
+  height="134"
 />
 </div>
 
