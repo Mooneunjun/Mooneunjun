@@ -1,13 +1,11 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4A90E2,100:8A2BE2&height=180&text=Moon&fontSize=80&fontAlign=50&fontColor=FFFFFF&animation=fadeIn&stroke=FFFFFF&strokeWidth=1" alt="Moon Capsule">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4A90E2,100:8A2BE2&height=180&text=Hi,%20I'm%20Moon!%20&fontSize=80&fontAlign=50&fontColor=FFFFFF&animation=fadeIn&stroke=FFFFFF&strokeWidth=1" alt="Moon Capsule">
 
 </div>
 
 
 <div align="center">
-
-  ### Hi, I'm Moon! 👋
 
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMooneunjun%2Fhit-counter&count_bg=%23F12121&title_bg=%23555555&icon=lastpass.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false) <img
       src="https://img.shields.io/badge/MoonDevlog-3DDC84?style=badge&logo=Velog&logoColor=white"
