@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Moon! 👋
 Welcome to my GitHub profile!  
-![Profile views](https://hits.sh/github.com/Mooneunjun.svg "Profile views")
+![Profile views](https://hits.sh/github.com/Mooneunjun.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233ECF8E&title_bg=%23555555&icon=react.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🚀 Tech Stack
 
