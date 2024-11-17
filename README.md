@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 
 # Hi, I'm Moon! 👋
 
-   _  _     _   _ _   ___ _             __  __                   _  
- _| || |_  | | | (_) |_ _( )_ __ ___   |  \/  | ___   ___  _ __ | | 
-|_  ..  _| | |_| | |  | ||/| '_ ` _ \  | |\/| |/ _ \ / _ \| '_ \| | 
-|_      _| |  _  | |  | |  | | | | | | | |  | | (_) | (_) | | | |_| 
-  |_||_|   |_| |_|_| |___| |_| |_| |_| |_|  |_|\___/ \___/|_| |_(_) 
+  __  __             _          
+ |  \/  |           (_)         
+ | \  / | __ _ _ __  _ _ __ ___ 
+ | |\/| |/ _` | '_ \| | '__/ _ \
+ | |  | | (_| | | | | | | |  __/
+ |_|  |_|\__,_|_| |_|_|_|  \___|
+
   
 Welcome to my GitHub profile!  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mooneunjun&show_icons=true&theme=radical)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMooneunjun%2Fhit-counter&count_bg=%233ECF8E&title_bg=%23555555&icon=lastpass.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://velog.io/@moon_dev/posts)
 
