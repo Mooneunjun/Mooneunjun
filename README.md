@@ -10,13 +10,6 @@
   
 [![Moon's github stats](https://github-readme-stats.vercel.app/api?username=Mooneunjun)](https://github.com/Mooneunjun/github-readme-stats)
 
-<div>
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Mooneunjun&theme=github-compact"
-  alt="GitHub Activity Graph"
-  width="450"
-/>
-  </div>
 </div>
 
 ---
