@@ -7,7 +7,8 @@
 
 <div align="left" style="text-align:center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mooneunjun&show_icons=true&theme=dark&count_private=true&include_all_commits=true" width="450">
+<img src="https://github-readme-stats.vercel.app/api?username=Mooneunjun&show_icons=true&theme=dark&count_private=true&include_all_commits=true&cache_seconds=1800" width="450">
+
 
 
 </div>
