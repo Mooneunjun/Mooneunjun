@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://velog-github-badge.vercel.app/badge/moon_dev?theme=dark&posts=3" width="450" alt="Velog GitHub stats">
+<img herf="https://velog.io/@moon_dev/posts" src="https://velog-github-badge.vercel.app/badge/moon_dev?theme=dark&posts=3" width="450" alt="Velog GitHub stats">
 
 
 </div>
