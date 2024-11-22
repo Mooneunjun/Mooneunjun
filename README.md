@@ -9,6 +9,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mooneunjun&show_icons=true&theme=dark&count_private=true&include_all_commits=true&cache_seconds=1800" width="450">
 
+<br/>
+
+<img src="https://velog-github-badge.vercel.app/badge/Mooneunjun?theme=dark&posts=3" width="450" alt="Velog GitHub stats">
 
 
 </div>
