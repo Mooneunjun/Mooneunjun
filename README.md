@@ -63,6 +63,3 @@
   </div>
 
 ---
-<a href="https://velog.io/@moon_dev/posts">
-  <img src="https://velog-github-badge.vercel.app/badge/moon_dev?theme=dark&posts=3"  alt="Velog GitHub stats" width=100%>
-</a>
