@@ -60,7 +60,7 @@
     />
     <img
   src="https://img.shields.io/badge/Tailwind%20CSS-%230EA5E9.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
-  alt="Tailwind CSS"
+  alt="Tailwind"
   style="height: 26px"
     />
   </div>
