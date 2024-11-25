@@ -3,7 +3,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2FMooneunjun%2Fgjbae1212%2Fhit-counter&count_bg=%232F2F2F&title_bg=%23090909&icon=dev-dot-to.svg&icon_color=%23EFECEC&title=Frontend&edge_flat=false)](https://hits.seeyoufarm.com)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact_Me-B329D9?style=social&logo=icloud&logoColor=black)](mailto:mooneunjun@icloud.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-FFFFFF?style=social&logo=icloud&logoColor=000000)](mailto:mooneunjun@icloud.com)
 
 
   ---
