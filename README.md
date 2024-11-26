@@ -1,6 +1,5 @@
-
 <img 
-  src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Moon&descAlign=50&descAlignY=70&fontColor=FFFFFF&fontSize=40&animation=twinkling"
+  src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Moon&descAlign=50&descAlignY=70&fontColor=F5F5F5&fontSize=80&animation=twinkling"
   style="width: 100%;"
 />
 
