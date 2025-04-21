@@ -12,13 +12,6 @@
 
   ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats" align=left>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mooneunjun&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=15181D&icon_color=CFCFCF&text_color=AAAAAA&title_color=FFFFFF&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
-</a>    
-
-<a href="https://github.com/anuraghazra/github-readme-stats" align=right>
-    <img src="https://github-readme-stats.vercel.app/api?username=Mooneunjun&show_icons=true&theme=material-palenight&hide_border=true&bg_color=15181D&icon_color=CFCFCF&text_color=AAAAAA&title_color=FFFFFF&count_private=true" width=59% />
-</a>
 
 
 
